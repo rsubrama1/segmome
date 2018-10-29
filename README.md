@@ -1,4 +1,3 @@
-# segmome
 # Segment of the Moment: Learning Objectives
 
 One of the important data analytics tasks that a marketing firm/specialists will undertake is performing a customer segmentation analysis. THe goal of customer segmentation is to divide the customer base into groups such that each group consists of similar members and there are distinct groups that together comprise the customer database.
