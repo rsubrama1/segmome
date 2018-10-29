@@ -20,9 +20,9 @@ To understand the process of creating customer segments from a sales transaction
 
 # Files in the Repository
 
-wholesale_quantities.csv: Data on the firm's sales transactions \n
-readme.md: This file \n
-CSegment_Moment.ipynb: The case document in markdown format with embedded code \n
+wholesale_quantities.csv: Data on the firm's sales transactions
+readme.md: This file
+CSegment_Moment.ipynb: The case document in markdown format with embedded code
 
 
 # Author Information
